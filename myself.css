@@ -1,0 +1,11 @@
+body{
+    margin-top: 6rem;
+    background-color: grey;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#pic{
+    height: 30rem;
+    width: 40rem;
+}
